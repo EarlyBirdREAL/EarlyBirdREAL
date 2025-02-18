@@ -34,13 +34,13 @@ Here are some ideas to get you started:
 -->
 
 #### Github Stats
-<img src="https://github-readme-stats-vincents-projects-4072fcc2.vercel.app//api?username=earlybirdreal&show_icons=true&theme=vue-dark" alt="github stats" width="45%"/>
+<img src="https://github-readme-stats-vincents-projects-4072fcc2.vercel.app/api?username=earlybirdreal&show_icons=true&theme=vue-dark" alt="github stats" width="45%"/>
 
 ### Github Streaks
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=earlybirdreal&theme=dark" width="48%" >
 
 ### Top Languages
- ![Top Langs](https://github-readme-stats-vincents-projects-4072fcc2.vercel.app//api/top-langs/?username=earlybirdreal&layout=compact)
+ ![Top Langs](https://github-readme-stats-vincents-projects-4072fcc2.vercel.app/api/top-langs/?username=earlybirdreal&layout=compact)
 
 
 
