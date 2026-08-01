@@ -15,8 +15,8 @@ I am EarlyBird *(t'was already taken)*, a Computer Science student in the Nether
 
 ## Current status:
 
-**Internship: Level Up**
-- I am currently working at Level Up upgrading the testing for their products, e2e testing is currently being done manually by the client. I am working on automating this process in CI/CD
+**DevOps Engineer: Level Up**
+- I've recently started working in the real world, I've started as a DevOps Engineer at Level Up. Working on their extensive Azure environment and in the Ci/CD pipelines. Alongside with thinking of resilience and improvements for the future. 
 
 <!--
 **EarlyBirdREAL/EarlyBirdREAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
